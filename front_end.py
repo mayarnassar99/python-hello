@@ -6,3 +6,5 @@ Created on Wed Jan  4 12:27:21 2023
 """
 
 button1 = "read"
+def num(x , y):
+    return x*y
