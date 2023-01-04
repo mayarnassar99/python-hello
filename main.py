@@ -6,3 +6,4 @@ Created on Wed Jan  4 12:08:31 2023
 """
 
 x = 5
+y = 6
